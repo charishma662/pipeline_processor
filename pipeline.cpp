@@ -1,5 +1,4 @@
-// Assignment 10 CS2610 Lab
-// CS20b057 Nisanth D , CS20b026 Teja D
+
 // Code for executing a pipelined processor and output all the stats
 
 #include<bits/stdc++.h>
